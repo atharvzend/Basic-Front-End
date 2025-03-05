@@ -50,7 +50,5 @@ This project is a modern and responsive web interface that includes multiple HTM
 ## Contribution
 Feel free to fork this repository and submit pull requests for improvements!
 
-## License
-This project is licensed under the MIT License.
 
 
